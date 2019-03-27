@@ -1,2 +1,2 @@
 ## Curso Modelagem Conceitual de UML
-aplicando os conceitos práticos 
+Aplicando os conceitos práticos do curso
