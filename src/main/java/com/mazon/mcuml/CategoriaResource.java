@@ -20,7 +20,6 @@ public class CategoriaResource {
 
         List<Categoria> list = Arrays.asList(c1, c2);
 
-
         return list;
     }
 
