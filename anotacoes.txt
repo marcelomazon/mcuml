@@ -1,0 +1,4 @@
+aula 10 - teste rest de categorias
+hascode/equals para comparar os objetos pelo conteúdos, normalmente usado o id do objeto.
+aula 13 - h2 banco de dados em memória pra teste
+
